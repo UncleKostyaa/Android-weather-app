@@ -1,0 +1,3 @@
+com.weatherapi.api
+string app_name
+string preference_file_key
